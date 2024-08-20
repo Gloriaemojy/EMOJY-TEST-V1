@@ -1,12 +1,12 @@
 {
-   "name": "Queen_Anita-V2",
+   "name": "EMOJY-TEST-V1",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by DeeCeeXxx.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
+      "run": "pm2 start . --deep-monitoring --attach --name EMOJY-TEST-V1 || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name EMOJY-TEST-V1 || node .",
       "start": "pm2 start . --attach --name Queen_Anita-V2",
       "stop": "pm2 stop Queen_Anita-V2",
       "heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
