@@ -1,15 +1,15 @@
 {
     "name": "Queen_Anita-V2",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "logo": "https://imgur.com/a/ehDvHdf",
+    "keywords": ["Emojybwy", "v1", "Emojy-Test-v1"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "EMOJY-TEST-V1",
         "required": true
       },
   
