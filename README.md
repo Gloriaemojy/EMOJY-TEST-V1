@@ -1,4 +1,4 @@
- # QUEEN_ANITA-V2 BETA ( UnOfficial Version ) 
+ # EMOJY-TEST-V1 ( UnOfficial Version ) 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## EMOJY TEST V1 Deployment Methods
 
 ### 1. FORK THIS REPO
 
